@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# dados operacionais e saídas da execução
+pedidos.xlsx
+pedidos.csv
+log_*.csv
+erros/
